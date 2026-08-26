@@ -19,3 +19,4 @@ I have a few years of hands-on software development experience, which means I un
 
 📍 Based in Nuremberg, Germany
 📫 muzammilziach@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/muzammilziach)
