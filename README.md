@@ -17,6 +17,6 @@ I have a few years of hands-on software development experience, which means I un
 - 🔍 DocuSearch AI — semantic search built with Laravel, Qdrant, and OpenAI embeddings
 - 🧩 ShapeSnap — Python/Flask and OpenCV image recognition API used in a real mobile campaign
 
-📍 Based in Nuremberg, Germany<br>
+📍 Nuremberg, Germany<br>
 📫 muzammilziach@gmail.com<br>
 🔗 [LinkedIn](https://www.linkedin.com/in/muzammilziach)
