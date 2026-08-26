@@ -18,5 +18,5 @@ I have a few years of hands-on software development experience, which means I un
 - 🧩 ShapeSnap — Python/Flask and OpenCV image recognition API used in a real mobile campaign
 
 📍 Based in Nuremberg, Germany
-📫 muzammilziach@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/muzammilziach)
+[📫](muzammilziach@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/muzammilziach)
