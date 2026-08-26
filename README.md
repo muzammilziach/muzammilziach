@@ -2,7 +2,7 @@
 
 M.Sc. student in Information and Communication Technology at FAU Erlangen-Nuremberg, currently focused on quality assurance and software testing.
 
-I have a few years of hands-on software development experience, which means I understand how applications are built and why bugs tend to happen in the first place. I now want to put that background to use on the testing side: writing test cases, tracking down bugs, and helping keep releases stable.
+I have hands-on software development experience, which means I understand how applications are built and why bugs tend to happen in the first place. I now want to put that background to use on the testing side: writing test cases, tracking down bugs, and helping keep releases stable.
 
 **What I work with:**
 - Testing: manual testing, regression testing, cross-browser testing, exploratory testing
